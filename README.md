@@ -1,1 +1,1 @@
-# TemporalGraphNeuralNetworks_HandGestureDetection
+# TemporalGraphNeuralNetworks_ProductRecomendation
